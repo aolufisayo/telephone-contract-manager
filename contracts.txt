@@ -1,0 +1,14 @@
+K Maxwell,N,0.0,0.0,805.0,true,null,10-May-2020,1,2,12
+K Maxwell,B,90.5625,10.0,1207.5,true,null,10-May-2020,2,3,12
+S Johassen,B,71.875,10.0,1437.5,true,null,10-May-2020,3,3,18
+Kasim K,N,1147.125,5.0,1207.5,true,null,10-May-2020,3,2,1
+F Yahansen,N,710.125,5.0,747.5,true,null,10-May-2020,2,1,1
+Will Smith,N,44.861111111111114,5.0,850.0,false,null,10-May-2020,2,2,18
+K Kasandra,B,37.5,10.0,500.0,false,null,10-May-2020,1,1,12
+W Wizkid,N,928.625,5.0,977.5,true,null,11-May-2020,2,2,1
+J john,N,77.38541666666667,5.0,977.5,true,null,11-May-2020,2,2,12
+P Smith,N,51.59027777777778,5.0,977.5,true,null,11-May-2020,2,2,18
+D Drogba,N,51.59027777777778,5.0,977.5,true,DD001N,11-May-2021,2,2,18
+T Tony,B,48.875,10.0,977.5,true,TT101B,11-May-2021,2,2,18
+K Shada,C,402.5,30.0,575.0,true,KS702C,11-May-2021,1,1,1
+U Yinusa,N,75.86805555555556,5.0,1437.5,true,UY302N,11-May-2021,3,3,18
