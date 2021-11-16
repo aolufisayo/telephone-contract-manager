@@ -9,5 +9,8 @@ Background
 A small communications company requires a simple telephone contract manager prototype to demonstrate key features. The comapany offers the following packages.
 
 
-![Telephone Contracts](telephone-rates.JPG?raw=true "Telephone Contracts")
+<p align="center">
+  <img src="telephone-rates.JPG?raw=true" />
+</p>
+
 
